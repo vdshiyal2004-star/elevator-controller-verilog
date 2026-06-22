@@ -9,7 +9,7 @@ Designed a finite state machine (FSM) based elevator controller for a 7-floor bu
 - Door open/close control
 - Floor request handling
 - Emergency case handling
-- FSM-based implementation with seven-segment display
+- FSM-based implementation with seven-segment display shoving current floor 
 
 ## Tools Used
 - Verilog HDL

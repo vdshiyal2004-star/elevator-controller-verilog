@@ -21,7 +21,6 @@ Designed a finite state machine (FSM) based elevator controller for a 7-floor bu
 - elevator_tb.v : Testbench
 - elevator.xdc : Constrain file
 - screenshots/ : RTL Schematic,Synthesized schematic,Simulation results
-- 
 
 ## RTL Schematic
 <img width="1533" height="499" alt="image" src="https://github.com/user-attachments/assets/0b0a136a-7ef4-4266-9661-958f367b67d1" />

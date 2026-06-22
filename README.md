@@ -22,8 +22,7 @@ Designed a finite state machine (FSM) based elevator controller for a 7-floor bu
 - screenshots/ : Simulation results
 
 ## Simulation
-<img width="1554" height="533" alt="image" src="https://github.com/user-attachments/assets/90a318e7-66d5-4aec-be98-0cb2d606ee4e" />
-
+<img width="1554" height="663" alt="image" src="https://github.com/user-attachments/assets/6c62a2e8-fc8a-430d-ab01-42f4604bfbe4" />
 
 ## Future Improvements
 - Priority scheduling

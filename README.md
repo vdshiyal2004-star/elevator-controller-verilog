@@ -27,5 +27,6 @@ Designed a finite state machine (FSM) based elevator controller for a 7-floor bu
 
 ## Future Improvements
 - Priority scheduling
+- design with floor as veriable
 - Multiple request queue
-- FPGA implementation with seven-segment display
+- FPGA implementation with seven-segment display shoving current floore and up/down motion 

@@ -19,7 +19,7 @@ Designed a finite state machine (FSM) based elevator controller for a 7-floor bu
 ## Files
 - elevator.v : Main design
 - elevator_tb.v : Testbench
-- elevator.xdc
+- elevator.xdc : Constrain file
 - screenshots/ : RTL Schematic,Synthesized schematic,Simulation results
 - 
 
